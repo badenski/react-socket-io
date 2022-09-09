@@ -1,0 +1,29 @@
+{
+  "name": "react-socket-io",
+  "version": "1.0.0",
+  "description": "React & Socket.io-client.",
+  "main": "index.js",
+  "scripts": {
+    "test": "react-scripts test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/badenski/react-socket-io.git"
+  },
+  "keywords": [
+    "React",
+    "socket.io-client"
+  ],
+  "author": "Badenski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/badenski/react-socket-io/issues"
+  },
+  "homepage": "https://github.com/badenski/react-socket-io#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1",
+    "socket.io-client": "^4.5.2"
+  }
+}
